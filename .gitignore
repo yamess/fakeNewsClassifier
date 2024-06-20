@@ -1,0 +1,9 @@
+.idea/
+.ipynb_checkpoints/
+runs/
+model.bin
+onnx_model.onnx
+data.csv
+output/
+data/
+__pycache__/
